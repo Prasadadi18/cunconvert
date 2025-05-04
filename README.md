@@ -2,4 +2,4 @@
 currency convereter code snippet
 this is Adi
 <br>
-hi how are you
+hi how are your
